@@ -1,5 +1,9 @@
 # Dollar Cost Averaging Python script
-Script to calculate how many shares to buy each month
+Script to calculate how many shares to buy each month.
+
+Based on a stock portfolio and the cash available to buy new shares, the script returns how many shares of each stock you need to buy to balance the portfolio and meet the expected allocation.
+
+The cash available is an input of the script, and the CSV contains the symbol, the expected percentage allocation, and the current number of shares for each stock.
 
 ## Setup
 * Python version: 3

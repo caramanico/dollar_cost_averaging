@@ -1,4 +1,4 @@
-# dollar_cost_averaging
+# Dollar Cost Averaging Python script
 Script to calculate how many shares to buy each month
 
 ## Setup
